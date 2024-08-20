@@ -47,4 +47,4 @@ This project is licensed under the MIT License (see LICENSE.md for details)
 
 * This project is still under development.
 * Feel free to report any bugs or issues you encounter.
-* You can find more information about the exchange rate API used at [https://v6.exchangerate-api.com].
+* You can find more information about the exchange rate API used at [https://exchangerate-api.com].
