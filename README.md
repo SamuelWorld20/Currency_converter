@@ -38,3 +38,13 @@ The application will display the converted amount in Naira.
 If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. Please ensure your contributions adhere to the project's coding style and best practices.
 
 I appreciate any suggestions or improvements you can offer
+
+## License
+
+This project is licensed under the MIT License (see LICENSE.md for details)
+
+## Additional Notes
+
+* This project is still under development.
+* Feel free to report any bugs or issues you encounter.
+* You can find more information about the exchange rate API used at [https://v6.exchangerate-api.com].
