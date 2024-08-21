@@ -110,11 +110,11 @@ form button{
   color: #fff;
   font-size: 17px;
   cursor: pointer;
-  background: #00b4db;
+  background: #15dd40;
   transition: all 0.5s;
 }
 form button:hover{
-  background: #049bce;
+  background: #2edb0b;
 
 }
 
